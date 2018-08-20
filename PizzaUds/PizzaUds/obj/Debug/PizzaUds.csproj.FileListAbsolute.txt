@@ -1,0 +1,13 @@
+C:\Users\T-Gamer\Documents\Visual Studio 2012\Projects\PizzaUds\PizzaUds\bin\Debug\PizzaUds.exe.config
+C:\Users\T-Gamer\Documents\Visual Studio 2012\Projects\PizzaUds\PizzaUds\bin\Debug\pizza.mdf
+C:\Users\T-Gamer\Documents\Visual Studio 2012\Projects\PizzaUds\PizzaUds\bin\Debug\pizza_log.ldf
+C:\Users\T-Gamer\Documents\Visual Studio 2012\Projects\PizzaUds\PizzaUds\bin\Debug\PizzaUds.exe
+C:\Users\T-Gamer\Documents\Visual Studio 2012\Projects\PizzaUds\PizzaUds\bin\Debug\PizzaUds.pdb
+C:\Users\T-Gamer\Documents\Visual Studio 2012\Projects\PizzaUds\PizzaUds\obj\Debug\PizzaUds.csprojResolveAssemblyReference.cache
+C:\Users\T-Gamer\Documents\Visual Studio 2012\Projects\PizzaUds\PizzaUds\obj\Debug\PizzaUds.Properties.Resources.resources
+C:\Users\T-Gamer\Documents\Visual Studio 2012\Projects\PizzaUds\PizzaUds\obj\Debug\PizzaUds.csproj.GenerateResource.Cache
+C:\Users\T-Gamer\Documents\Visual Studio 2012\Projects\PizzaUds\PizzaUds\obj\Debug\PizzaUds.exe
+C:\Users\T-Gamer\Documents\Visual Studio 2012\Projects\PizzaUds\PizzaUds\obj\Debug\PizzaUds.pdb
+C:\Users\T-Gamer\Documents\Visual Studio 2012\Projects\PizzaUds\PizzaUds\obj\Debug\PizzaUds.frm_main.resources
+C:\Users\T-Gamer\Documents\Visual Studio 2012\Projects\PizzaUds\PizzaUds\obj\Debug\PizzaUds.frm_finalizar.resources
+C:\Users\T-Gamer\Documents\Visual Studio 2012\Projects\PizzaUds\PizzaUds\obj\Debug\PizzaUds.Form2.resources
